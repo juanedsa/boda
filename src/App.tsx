@@ -1,11 +1,11 @@
 import './App.css'
 
+import { WeMarried } from './components/weMarrried/WeMarried'
+
 function App() {
   return (
     <>
-      <h1>Nos Casamos!</h1>
-      <h2>Juan y Andre</h2>
-      <h3>05 de Octubre de 2024</h3>
+      <WeMarried />
     </>
   )
 }

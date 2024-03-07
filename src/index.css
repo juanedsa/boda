@@ -1,9 +1,9 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Cormorant Garamond', serif;
   line-height: 1.5;
   font-weight: 400;
 
-  color: #748d75;
+  color: #e2725b;
   background-color: #fff8f0;
 
   font-synthesis: none;
@@ -15,7 +15,8 @@
 body {
   margin: 0;
   display: flex;
-  place-items: center;
+  justify-content: center;
+
   min-width: 320px;
   min-height: 100vh;
 }
