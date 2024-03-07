@@ -1,0 +1,9 @@
+.header__title {
+  font-weight: 600;
+  font-size: 64px;
+}
+
+.header__date {
+  color: #333333;
+  font-size: 36px;
+}

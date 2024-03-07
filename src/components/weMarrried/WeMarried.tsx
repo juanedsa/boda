@@ -3,7 +3,7 @@ import './WeMarried.css'
 function WeMarried() {
   return (
     <section className="we-married">
-      <h1 className="we-married__title">Nos Casamos!</h1>
+      <h2 className="we-married__title">Nos Casamos!</h2>
       <p className="we-married__subtitle">
         El amor que ha crecido en nosotros desde la primera vez que nos
         conocimos, nos ha llevado hoy a buscar en Dios la gracia para formar una
