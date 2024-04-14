@@ -1,9 +1,18 @@
 .header__title {
   font-weight: 600;
   font-size: 64px;
+
+  background-color: #211D18;
 }
 
 .header__date {
   color: #333333;
   font-size: 36px;
+}
+
+.header {
+  img {
+    max-width: 1200px;
+    width: 100%;
+  }
 }
