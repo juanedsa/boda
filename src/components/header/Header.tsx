@@ -1,4 +1,5 @@
 import { Confirm } from '../confirm/Confirm'
+import { Location } from '../location/Location'
 import { Song } from '../song/Song'
 
 import './Header.css'
@@ -11,7 +12,9 @@ function Header() {
       <Song />
 
       <img src="3.png" />
-      <img src="4.png" />
+
+      <Location />
+
       <img src="5.png" />
       <img src="6.png" />
       <img src="7.png" />

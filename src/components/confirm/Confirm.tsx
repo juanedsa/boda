@@ -1,9 +1,11 @@
 import './Confirm.css'
 
 function Confirm() {
+  
   const onClickNovia = () => {
     window.open('https://wa.link/6qvun0', '_blank')
   }
+
   const onClickNovio = () => {
     window.open('https://wa.link/oy7svl', '_blank')
   }
