@@ -1,12 +1,15 @@
+import { Confirm } from '../confirm/Confirm'
+import { Song } from '../song/Song'
+
 import './Header.css'
 
 function Header() {
   return (
     <section className="header">
-      {/* <h1 className="header__title">Juan y Andrea</h1>
-      <p className="header__date">05 - Octubre - 2024</p> */}
       <img src="1.png" />
-      <img src="2.png" />
+
+      <Song />
+
       <img src="3.png" />
       <img src="4.png" />
       <img src="5.png" />
@@ -14,6 +17,9 @@ function Header() {
       <img src="7.png" />
       <img src="8.png" />
       <img src="9.png" />
+
+      <Confirm />
+
       <img src="10.png" />
       <img src="11.png" />
       <img src="12.png" />
