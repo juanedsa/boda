@@ -1,3 +1,4 @@
+import { Carrousel } from '../carrousel/Carrousel'
 import { Confirm } from '../confirm/Confirm'
 import { Countdown } from '../countdown/Countdown'
 import { Location } from '../location/Location'
@@ -26,14 +27,9 @@ function Header() {
 
       <img src="10.png" />
 
-      <Countdown/>
+      <Countdown />
 
-      
-      <img src="12.png" />
-      <img src="13.png" />
-      <img src="14.png" />
-      <img src="15.png" />
-      <img src="16.png" />
+      <Carrousel />
     </section>
   )
 }
