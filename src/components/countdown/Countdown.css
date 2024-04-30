@@ -12,6 +12,8 @@
 }
 
 .countdown__numbers span {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-style: italic;
   color: white;
   font-size: 56px;
   width: 90px;
@@ -24,6 +26,8 @@
 }
 
 .countdown__labels span {
+  font-family: 'Cormorant Garamond', serif !important;
+  font-style: italic;
   color: white;
   font-size: 26px;
   width: 90px;
