@@ -1,4 +1,5 @@
 import { Confirm } from '../confirm/Confirm'
+import { Countdown } from '../countdown/Countdown'
 import { Location } from '../location/Location'
 import { Song } from '../song/Song'
 
@@ -24,7 +25,10 @@ function Header() {
       <Confirm />
 
       <img src="10.png" />
-      <img src="11.png" />
+
+      <Countdown/>
+
+      
       <img src="12.png" />
       <img src="13.png" />
       <img src="14.png" />
