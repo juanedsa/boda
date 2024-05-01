@@ -1,10 +1,10 @@
 :root {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Cormorant Garamond', serif !important;
   line-height: 1.5;
   font-weight: 400;
 
   color: #e2725b;
-  background-color: #211D18;
+  background-color: #211d18 !important;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -16,7 +16,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
-
+  background-color: #211d18 !important;
   min-width: 320px;
   min-height: 100vh;
 }

@@ -4,5 +4,12 @@
   padding: 0;
   text-align: center;
 
-  background-color: #211D18;
+  background-color: #211d18 !important;
+}
+
+.footer {
+  margin: 20px 10px;
+  color: grey;
+  text-align: center;
+  font-size: 12px;
 }
