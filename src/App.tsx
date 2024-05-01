@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <div className='footer'>
-        <p>Derechos de autor © 2024. Todos los derechos reservados. Creado con amor y pasión por Andre y Juan. ¡Gracias por visitarnos!</p>
+        <p>Derechos de autor © 2024. Todos los derechos reservados. Creado con amor ❤️ por Andre y Juan.</p>
       </div>
     </>
   )
