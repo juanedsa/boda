@@ -1,1 +1,11 @@
+.song__label {
+  color: white;
+  font-size: 36px;
+  font-style: italic;
+  font-family: 'Cormorant Garamond', serif !important;
+  margin-bottom: 14px;
+}
 
+.song__audio {
+  margin-bottom: 64px;
+}

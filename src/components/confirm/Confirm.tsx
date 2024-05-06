@@ -13,10 +13,10 @@ function Confirm() {
   return (
     <div className="confirm">
       <button className="confirm__button" onClick={onClickNovia}>
-        Confirmar a Zuly
+        Confirmar a la Novia
       </button>
       <button className="confirm__button" onClick={onClickNovio}>
-        Confirmar a Juan
+        Confirmar al Novio
       </button>
     </div>
   )

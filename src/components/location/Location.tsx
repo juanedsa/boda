@@ -8,7 +8,7 @@ function Location() {
 
   return (
     <div className="location">
-      <img src="4.png" />
+      <img src="5.png" />
 
       <button className="location__button" onClick={openLocation}>
         Ver ubicación aquí

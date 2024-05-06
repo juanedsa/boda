@@ -6,12 +6,6 @@ function Carrousel() {
   return (
     <Carousel>
       <Carousel.Item>
-        <img src="12.png" />
-      </Carousel.Item>
-      <Carousel.Item>
-        <img src="13.png" />
-      </Carousel.Item>
-      <Carousel.Item>
         <img src="14.png" />
       </Carousel.Item>
       <Carousel.Item>
@@ -19,6 +13,12 @@ function Carrousel() {
       </Carousel.Item>
       <Carousel.Item>
         <img src="16.png" />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img src="17.png" />
+      </Carousel.Item>
+      <Carousel.Item>
+        <img src="18.png" />
       </Carousel.Item>
     </Carousel>
   )

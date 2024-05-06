@@ -34,7 +34,7 @@ function Countdown() {
 
   return (
     <div className="countdown">
-      <img src="11.png" />
+      <img src="13.png" />
       <div className="countdown__numbers">
         <span>{timeLeft.days}</span>
         <span>{timeLeft.hours}</span>
